@@ -102,6 +102,14 @@ Ready to explore the power of ReactJS Home Repairs Management for yourself? Foll
 
 ---
 
+Teach Stack
+
+* Server-Side: PHP.
+* Front-End: ReactJS.
+* Database: MySql.
+
+---
+
 ## Elevate Your Home Repair Management
 
 Say goodbye to the hassle of keeping track of home repairs and payments manually. With `ReactJS Home Repairs Management`, you can simplify your life and manage every aspect effortlessly. Don't miss out on this opportunity to revolutionize the way you handle home repairs!
