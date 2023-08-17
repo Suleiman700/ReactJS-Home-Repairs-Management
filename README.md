@@ -102,7 +102,7 @@ Ready to explore the power of ReactJS Home Repairs Management for yourself? Foll
 
 ---
 
-Teach Stack
+### Teach Stack
 
 * Server-Side: PHP.
 * Front-End: ReactJS.
