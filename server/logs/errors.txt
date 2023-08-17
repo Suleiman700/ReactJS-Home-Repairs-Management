@@ -1,0 +1,234 @@
+
+--------------- Error -------------
+Trace ID: 1692262866421
+Date: 17/08/2023 11:01:06
+Error text: No results found
+Error code: RGRNF.1001
+Request type: GET
+{"controller":"Repairs_Controller","method":"getAllRecords"}
+Error:
+Class: Repairs_Model
+Function: getAllRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Repairs_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692262888415
+Date: 17/08/2023 11:01:28
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692262890257
+Date: 17/08/2023 11:01:30
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692262894951
+Date: 17/08/2023 11:01:34
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692262919309
+Date: 17/08/2023 11:01:59
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692262929727
+Date: 17/08/2023 11:02:09
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692262932246
+Date: 17/08/2023 11:02:12
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692262956568
+Date: 17/08/2023 11:02:36
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692262958446
+Date: 17/08/2023 11:02:38
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692262971340
+Date: 17/08/2023 11:02:51
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692262975285
+Date: 17/08/2023 11:02:55
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692262985176
+Date: 17/08/2023 11:03:05
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692262988928
+Date: 17/08/2023 11:03:08
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692263016427
+Date: 17/08/2023 11:03:36
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692263017839
+Date: 17/08/2023 11:03:37
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692263019546
+Date: 17/08/2023 11:03:39
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692263040087
+Date: 17/08/2023 11:04:00
+Error text: No repair quotes results found
+Error code: PGRNR.1001
+Request type: GET
+{"controller":"Payments_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: Payments_Model
+Function: getRecords
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Payments_Model.php
+-----------------------------------
+
+--------------- Error -------------
+Trace ID: 1692263078257
+Date: 17/08/2023 11:04:38
+Error text: No results found
+Error code: WGRNF.1001
+Request type: GET
+{"controller":"WorkLog_Controller","method":"getAllRecordsAndRelatedData","params":{"id":"x"}}
+Error:
+Class: WorkLog_Model
+Function: getWorkLogs
+File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\WorkLog_Model.php
+-----------------------------------

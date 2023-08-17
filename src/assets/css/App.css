@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap");
+body {
+  font-family: "DM Sans", sans-serif;
+}
+
+option {
+  color: black;
+}
+
+.swal2-container {
+    z-index: 9999;
+}
+
+table tbody>tr:hover {
+    background-color: lightblue;
+}
+
+table tbody>tr {
+    /*border-bottom: 2px solid rgba(166, 166, 166, 0.36);*/
+}
+
+td, th {
+    border: 1px solid #ececec !important;
+    /*text-align: left;*/
+    /*padding: 8px;*/
+}

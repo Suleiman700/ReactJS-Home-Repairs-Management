@@ -1,0 +1,27 @@
+
+-------------- Fatal Error -------------
+Trace ID: FE_1692262840067
+Date: 2023-08-17 11:00:40
+Request type: GET
+Request: {"controller":"Persons_Controller","method":"getAllRecords"}
+Error Message: Undefined array key "NO_RESULTS"
+Error File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Persons_Model.php(94)
+----------------------------------------
+
+-------------- Fatal Error -------------
+Trace ID: FE_1692262843119
+Date: 2023-08-17 11:00:43
+Request type: GET
+Request: {"controller":"Persons_Controller","method":"getAllRecords"}
+Error Message: Undefined array key "NO_RESULTS"
+Error File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Persons_Model.php(94)
+----------------------------------------
+
+-------------- Fatal Error -------------
+Trace ID: FE_1692262844542
+Date: 2023-08-17 11:00:44
+Request type: GET
+Request: {"controller":"Persons_Controller","method":"getAllRecords"}
+Error Message: Undefined array key "NO_RESULTS"
+Error File: E:\Projects\ReactJS\horizon-ui-chakra-main\server\models\Persons_Model.php(94)
+----------------------------------------
